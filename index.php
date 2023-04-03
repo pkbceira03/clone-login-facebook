@@ -99,7 +99,7 @@
                             <input type="radio" name="sexo" value="feminino"/>
                             <h3>Feminino</h3>
                         </div><!--input-radio-->
-                        <div class="clear"></div>
+                        <!-- <div class="clear"></div> -->
                     </div><!--w100-->
 
                     <div class="w100">
